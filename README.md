@@ -36,6 +36,7 @@ All models were loaded with ImageNet weights and fine-tuned with frozen base lay
 
 
 # Dataset Structure
+Due to limitations on folder size, data set has been uploaded to google drive and can be view at  https://drive.google.com/drive/folders/1StbKTiGwJEc9x1nJKO_jZK6FxBXPZp0O?usp=share_link  
 
 ── Dataset/
   ├── train/
